@@ -1,1 +1,1 @@
-# Supernova-Learning-app-prototype
+app-prototype
